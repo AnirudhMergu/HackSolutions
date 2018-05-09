@@ -25,7 +25,7 @@ The sum of the two integers x and y is computed as: 2 + 3 = 5.
 
 Author : Anirudh Sai Mergu
 Website: www.anirudhmergu.com
-Question URL: http://www.spoj.com/problems/PRIME1/
+Question URL: https://www.hackerrank.com/challenges/solve-me-first/problem
 """
 
 
