@@ -19,8 +19,8 @@ Sample Output
 
 31
 Explanation
-
-We print the sum of the array's elements: .
+1+2+3+4+10+11 = 31
+We print the sum of the array's elements: 31.
 
 Author : Anirudh Sai Mergu
 Website: www.anirudhmergu.com
